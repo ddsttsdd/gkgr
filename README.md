@@ -1,1 +1,1 @@
-# gkgr
+# gkgrc
